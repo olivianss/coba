@@ -1,4 +1,4 @@
-package perpus;
+package perpus.PraktikumModul_2;
 import java.util.Scanner;
  public class daftarBuku {
         public static void main(String[] args) {

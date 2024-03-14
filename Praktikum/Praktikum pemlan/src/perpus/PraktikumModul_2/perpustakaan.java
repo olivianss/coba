@@ -1,4 +1,4 @@
-package perpus;
+package perpus.PraktikumModul_2;
 public class perpustakaan {
     private String [][] bukuTek;
     private String [][] bukuFils;
