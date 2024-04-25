@@ -1,4 +1,4 @@
-package hewan;
+package harimau;
 import java.util.Scanner;
 
 public class Vet_v2_0 {
@@ -17,7 +17,7 @@ public class Vet_v2_0 {
         System.out.println("Ingin mengaum (y/t)?"); 
         String aum = input.next();
         if(aum.equals("y")){
-            System.out.println(tiger1.roar());
+            //System.out.println(tiger1.roar());
         }else if (aum.equals("t")){
             System.out.println("Baik tidak apa. Mungkin lain kali");
         }

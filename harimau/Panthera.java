@@ -6,7 +6,7 @@ package harimau;
 // }
 
 
-public class Pant hera{
+public class Panthera{
     public static void main(String [] args) {
         int x ;
         x = 13;
